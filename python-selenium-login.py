@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 # Para esperar por elementos específicos
 from selenium.webdriver.support.ui import WebDriverWait
-# Para condições esperadas (e.g., elemento presente)
+# Para condições esperadas
 from selenium.webdriver.support import expected_conditions as EC
 # Para simular pressionamento de teclas  
 from selenium.webdriver.common.keys import Keys  
